@@ -1,0 +1,7 @@
+{
+  "name": "jurusan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
